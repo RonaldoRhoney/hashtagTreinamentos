@@ -10,3 +10,7 @@ print(preco_fer)
 
 preco_ver02 = preco[-11:-9]
 print(preco_ver02)
+
+codigo = '1, 5, 9, 100, 50 15'
+pega_cod = codigo[8:-3]
+print(pega_cod)
