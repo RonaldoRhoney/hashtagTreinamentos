@@ -1,5 +1,5 @@
-🐍 Python Impressionador – Do Básico ao Avançado
-🚀 Sobre o Curso
+# 🐍 Python Impressionador – Do Básico ao Avançado
+## 🚀 Sobre o Curso
 O Python Impressionador é um curso completo da Hashtag Treinamentos que leva você do zero absoluto ao domínio avançado da linguagem Python. Com uma abordagem prática e voltada para o mercado de trabalho, o curso oferece:
     • Didática diferenciada: Mais de 49.000 alunos já comprovaram que com a didática certa aprender Python é mais fácil e interessante.
     • Exemplos reais desde o início: Aprenda sempre com exemplos tirados da realidade do mercado de trabalho, desde a 1ª aula.
