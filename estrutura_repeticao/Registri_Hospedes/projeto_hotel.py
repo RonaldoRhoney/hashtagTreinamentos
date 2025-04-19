@@ -7,3 +7,18 @@ for i in range(qtdd_pessoas):
     hospedes = [nome, 'cpf: {}'.format(cpf)]
 
 print(quarto)
+
+
+# Análise de vendas:
+ 
+meta = 1000
+vendas = [
+    ['Rhoney', 1598],
+    ['Gilmar', 1201],
+    ['Dom', 968],
+    ['Dayan', 969],
+    ['Ygor', 1001],
+]
+for item in vendas:
+    if item[1] >= meta:
+        print('vebdedor {} bateu a meta, ele fez: {}'.format(item[0], item[1]))
